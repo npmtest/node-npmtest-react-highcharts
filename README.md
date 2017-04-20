@@ -1,4 +1,7 @@
-# test coverage for  [react-highcharts (v11.5.0)](https://github.com/kirjs/react-highcharts#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-highcharts.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-highcharts) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-highcharts.svg)](https://travis-ci.org/npmtest/node-npmtest-react-highcharts)
+# npmtest-react-highcharts
+
+#### basic test coverage for  [react-highcharts (v11.5.0)](https://github.com/kirjs/react-highcharts#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-highcharts.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-highcharts) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-highcharts.svg)](https://travis-ci.org/npmtest/node-npmtest-react-highcharts)
+
 #### React wrapper for highcharts
 
 [![NPM](https://nodei.co/npm/react-highcharts.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-highcharts)
